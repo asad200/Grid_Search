@@ -9,4 +9,4 @@ Hyper-parameter tuning using grid search method on Search Results Web results  P
 5. Epochs
 6. Batch Size
 
-Total 5184 combinations were treid to find the best combination. KFold validation, using five splits, was used making total 25920 fits.
+Total 5184 combinations were treid to find the best combination. KFold validation, using five folds, was used making total 25920 fits.
