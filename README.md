@@ -2,7 +2,7 @@
 Hyper-parameter tuning using grid search method on Search Results Web results  Pima Indians Diabetes Database.
 
 ### Searched parameters
-1. Number of nurons in Dense layers
+1. Number of neurons in Dense layers
 2. Learning Rate
 3. Activation Function
 4. Kernal Initializer
