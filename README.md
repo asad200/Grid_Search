@@ -5,7 +5,7 @@ Hyper-parameter tuning using grid search method on Search Results Web results  P
 1. Number of neurons in Dense layers
 2. Learning Rate
 3. Activation Function
-4. Kernal Initializer
+4. Kernel Initializer
 5. Epochs
 6. Batch Size
 
