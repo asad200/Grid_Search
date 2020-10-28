@@ -10,3 +10,6 @@ Hyper-parameter tuning using grid search method on Search Results Web results  P
 6. Batch Size
 
 Total 5184 combinations were tried to find the best combination. KFold validation, using five folds, was used making total 25920 fits.
+### Models used
+- GridSearchCV
+- KFold
