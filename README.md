@@ -1,5 +1,5 @@
 # Grid Search for hyper-parameter tuning
-Hyper-parameter tuning using grid search method on Search Results Web results  Pima Indians Diabetes Database.
+Hyper-parameter tuning using grid search method on Pima Indians Diabetes Database.
 
 ### Searched parameters
 1. Number of neurons in Dense layers
